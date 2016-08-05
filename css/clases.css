@@ -1,0 +1,41 @@
+
+.tipoBaile{
+    background-size: cover;
+    height: 400px;
+    width: 300px;
+    margin: 20px 10%;
+}
+.uno{
+	background-image: url("../img/dance_12.jpg");
+}
+.dos{
+	background-image: url("../img/breakdance.jpg");
+}
+.tres{
+	background-image: url("../img/lirical-jazz.jpg");
+}
+.cuatro{
+	background-image: url("../img/arabe.jpg");
+}
+.cinco{
+	background-image: url("../img/little.jpg");
+}
+.seis{
+	background-image: url("../img/yoga.jpg");
+}
+.cuadroTipo{
+	width: 80%;
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	margin: 150px 30px;
+	display: inline-block;
+}
+.cuadroTipo h5{
+	font-size: 18px;
+	color: white;
+	padding: 10px;
+}
+.cuadroTipo p{
+	 color: white;
+	 padding: 10px;
+}

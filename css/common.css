@@ -1,0 +1,84 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: "Monserrat", 400,  sans-serif;
+}
+header{
+	text-align: center;
+	padding: 10px;
+}
+.titulo{
+	padding: 10px;
+}
+.titulo a{
+	text-decoration: none;
+	color: #778098;
+	font-size: 20px;
+}
+nav{
+	margin:10px;
+}
+a{
+	text-decoration: none;
+	color: gray;
+	padding: 0px 50px 50px 50px;
+}
+.contacto .container-fluid{
+	background-image: url("../img/shoes_1.jpg");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 400px;
+}
+form{
+	padding: 40px 80px;
+}
+form h2{
+	font-size: 30px;
+	color: #192951;
+	margin:10px;
+}
+.inputs{
+	width: 600px;
+	margin-bottom: 10px;
+	border: 1px solid gray;
+	padding: 10px;
+}
+#nombre{
+	background-image: url("../img/name.svg");
+	background-size: 5%;
+	background-position: left;
+	background-repeat: no-repeat;
+	padding-left: 3%;
+}
+#email{
+	background-image: url("../img/email.svg");
+	background-size: 5%;
+	background-position: left;
+	background-repeat: no-repeat;
+	padding-left: 3%;
+}
+#msj{
+	background-image: url("../img/comment.svg");
+	background-size: 5%;
+	background-repeat: no-repeat;
+	padding-left: 3%;
+	height: 100px;
+}
+button{
+	background-color: #192951;
+	border-radius: 5px;
+	text-align: center;
+	width: 600px;
+	height: 40px;
+	color: white;
+}
+footer{
+	background-color: #192951;
+}
+footer p{
+	color: white;
+	width: 500px;
+	padding: 20px;
+}

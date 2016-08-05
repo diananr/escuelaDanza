@@ -1,0 +1,131 @@
+.primero .container-fluid{
+	background-image: url("../img/dance_1.jpg");
+	background-size: cover;
+	height: 350px;
+}
+.studio{
+	padding-top: 50px;
+	margin-left: 100px;
+}
+h2{
+	color: #C3C6C5;
+	font-size: 60px;
+}
+p{
+	color:white;
+	font-size: 12px;
+	width: 200px;
+	padding: 10px 20px 10px 0;
+}
+.botonInscri{
+	background-color: #020E1C;
+	border-radius: 5px;
+	width: 120px;
+	height: 40px;;
+	text-align: center;
+	padding: 10px 0px;
+}
+.botonInscri a{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+}
+
+/* ***SEGUNDA SECCION*** */
+
+.segundo .container-fluid{
+	background-image:url("../img/textura_2.jpg");
+	height: 350px;
+}
+.segundo .container-fluid p{
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	width: 650px;
+	margin-left:25%;
+	padding: 70px 0px 0px 0px;
+}
+.deco1{
+	width: 100px;
+	height: 100px;
+	margin-left: 590px;
+}
+.botonOferta{
+	background-color: #192951;
+	border-radius: 5px;
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	padding: 15px 0px;
+	margin-left: 500px;
+}
+.botonOferta a{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+}
+/* ***TERCERA PARTE** */
+.imgIzquierda, .imgDerecha{
+	border: 1px solid #020E1C;
+	background-size: cover;
+	height: 300px;
+}
+.imgIzquierda{
+	background-image: url("../img/instructor_4.jpg");
+}
+.imgDerecha{
+	background-image: url("../img/profesor_9.jpg");
+}
+.botonNuestros{
+	background-color: #192951;
+	border-radius: 5px;
+	text-align: center;
+	width: 500px;
+	height: 60px;
+	margin-top: 240px;
+	margin-left: 380px;
+	padding: 15px 0px;
+	position: absolute;
+}
+.botonNuestros a{
+	color: white;
+}
+/* ****CUARTA PARTE*** */
+.cuarto .container-fluid{
+	background-image:url("../img/textura_2.jpg");
+	height: 300px;
+	text-align: center;
+}
+.cuarto .container-fluid p{
+	color: black;
+	font-size: 35px;
+	font-style: italic;
+	margin-left: 15%;
+	padding: 110px 0px;
+	text-align: center;
+	width: 70%;
+}
+/******QUINTA PARTE******/
+.quinto .container-fluid{
+	background-color: #192951;
+	height: 300px;
+}
+.quinto p{
+	color: white;
+	margin: 50px 0px 20px 50px;
+	width: 350px;
+}
+.visita{
+	margin-left: 50px;
+}
+h4{
+	color: white;
+	margin-bottom: 5px;
+}
+.visita p{
+	margin: 0;
+	padding: 0;
+}
+iframe{
+	padding: 20px 0px;
+}

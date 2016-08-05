@@ -1,4 +1,11 @@
 
+.ofertaClases{
+	background-color: #E6E6E6;
+}
+.ofertaClases h2{
+	text-align: center;
+	padding: 30px 10px 10px 10px;
+}
 .tipoBaile{
     background-size: cover;
     height: 400px;
